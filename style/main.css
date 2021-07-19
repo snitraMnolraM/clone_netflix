@@ -103,3 +103,13 @@ header nav a:hover {
 .carrosel-filmes {
     margin-top: 5px;
 }
+
+.todoslinks {
+    padding: 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.todoslinks:hover {
+    color: black;
+}
